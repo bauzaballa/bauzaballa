@@ -1,6 +1,6 @@
-# bautista zaballa
+# Bautista Zaballa
 
-**fullstack developer** — La Plata, Argentina  
+**Fullstack developer** — La Plata, Argentina  
 Visual Communication Design background · Building interfaces and systems end-to-end
 
 ---
@@ -14,7 +14,7 @@ ai:     OpenAI API · Anthropic API · Prompt Engineering
 
 ---
 
-### selected work
+### Selected work
 
 | project | stack | type |
 |---------|-------|------|
@@ -25,7 +25,7 @@ ai:     OpenAI API · Anthropic API · Prompt Engineering
 
 ---
 
-### about
+### About
 
 2+ years building web applications professionally.  
 Led development for 50+ clients in e-commerce.  
