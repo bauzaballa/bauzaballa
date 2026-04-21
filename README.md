@@ -21,7 +21,7 @@ ai:     OpenAI API · Anthropic API · Prompt Engineering
 | [portfolio](https://github.com/bauzaballa/portfolio-web) — [bauzaballa.com](https://bauzaballa.com) | React 19 · Express 5 · PostgreSQL · Drizzle | fullstack · solo |
 | [insurance-quote-engine](https://github.com/bauzaballa/insurance-quote-engine-client) | React 19 · Zustand · Express 5 · 7-API orchestrator | fullstack · solo |
 | [document-tracking](https://github.com/bauzaballa/document-tracking-client) | React 19 · Socket.io · AWS S3 · PostgreSQL | fullstack · team |
-| [spotify-rewind](https://github.com/bauzaballa/spotify-rewind) — [demo](https://spotify-rewind-pearl.vercel.app) | React 19 · Recharts · Framer Motion · JSZip | frontend · solo |
+| [spotify-rewind](https://github.com/bauzaballa/spotify-rewind-redesign) — [demo](https://spotify-rewind-pearl.vercel.app) | React 19 · Recharts · Framer Motion · JSZip | frontend · solo |
 
 ---
 
